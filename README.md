@@ -20,4 +20,4 @@ Montar e programar um Slot Machine funcional, utilizando os símbolos e a tabela
 </table>
 
 ## Preview do game
-![Preview do game](https://i.imgur.com/aEn6JUF.png "Preview do game")
+![Preview do game](https://i.imgur.com/contSA7.png "Preview do game")
